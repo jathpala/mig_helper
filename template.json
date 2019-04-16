@@ -1,0 +1,54 @@
+{
+    "mrn": "Patient UR Number",
+    "fmr": "Filemaker refernce number",
+    "admission": {
+        "ad_status": "referral|elective|ed|transfer|other",
+        "ad_other": "string",
+        "ad_date": "dd/mm/yyyy",
+        "ad_time": "hh:mm",
+        "proc_date": "dd/mm/yyyy",
+        "proc_time": "hh:mm",
+        "n_visits": "n",
+        "height": "n|0",
+        "weight": "n",
+        "smoking": "current|previous|never|unknown",
+        "lung_disease": "yes|no",
+        "dm": "yes|no",
+        "ht": "yes|no",
+        "dyslip": "yes|no",
+        "prev_mi": "yes|no",
+        "fhx": "yes|no|unknown",
+        "pvd": "yes|no",
+        "cvd": "yes|no",
+        "osa": "yes|no",
+        "ra": "yes|no",
+        "oact": "yes|no",
+        "creat": "n",
+        "creat_unavailable": "true|false",
+        "creat_date": "dd/mm/yyyy",
+        "dialysis": "yes|no",
+        "renal_transplant": "yes|no",
+        "arrt": "yes|no",
+        "prev_pci": "yes|no",
+        "prev_pci_date": "dd/mm/yyyy",
+        "prev_cabg": "yes|no",
+        "prev_cabg_date": "dd/mm/yyyy",
+        "prev_valves": "yes|no",
+        "prev_valves_date": "dd/mm/yyyy"
+    },
+    "clinical": {
+
+    },
+    "visit": {
+
+    },
+    "procedure": {
+
+    },
+    "post": {
+
+    },
+    "discharge": {
+
+    },
+}
